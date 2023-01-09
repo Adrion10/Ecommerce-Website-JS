@@ -51,3 +51,16 @@ p {
 body {
   width: 100%;
 }
+#header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px 80px;
+  background-color: #e3e6f3;
+  box-shadow: 0 5px 15px rgba(9, 9, 9, 0.3);
+}
+#navbar {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
