@@ -64,3 +64,22 @@ body {
   justify-content: center;
   align-items: center;
 }
+.logo {
+  height: 50px;
+  margin-right: 20px;
+}
+#navbar li {
+  list-style: none;
+  padding: 0 20px;
+}
+#navbar li a {
+  font-size: 16px;
+  color: #2e2e2e;
+  text-decoration: none;
+  font-weight: bold;
+  transition: 0.3s ease;
+}
+#navbar li a:hover,
+#navbar li a.active {
+  color: #128553;
+}
