@@ -158,5 +158,20 @@ p {
   line-height: 1;
   border-radius: 4px;
   color: rgb(39, 41, 41);
-  background-color: rgb(226, 245, 225);
+  background-color: rgb(170, 234, 248);
+}
+#feature .fe-box:nth-child(2) h6 {
+  background-color: rgb(225, 209, 234);
+}
+#feature .fe-box:nth-child(3) h6 {
+  background-color: rgb(151, 207, 171);
+}
+#feature .fe-box:nth-child(4) h6 {
+  background-color: rgb(164, 195, 218);
+}
+#feature .fe-box:nth-child(5) h6 {
+  background-color: rgb(225, 209, 234);
+}
+#feature .fe-box:nth-child(6) h6 {
+  background-color: rgb(248, 207, 177);
 }
