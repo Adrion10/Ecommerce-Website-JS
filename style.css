@@ -183,4 +183,12 @@ p {
   min-width: 250px;
   padding: 10px;
   border: 1px solid #cce7d0;
+  border-radius: 25px;
+  cursor: pointer;
+  box-shadow: 20px 20px 30px rgba(0, 0, 0, 0.2);
+}
+#product1 .pro img {
+  width: 100%;
+  border-radius: 20px;
+  box-shadow: 20px 20px 30px rgba(203, 200, 200, 0.6);
 }
