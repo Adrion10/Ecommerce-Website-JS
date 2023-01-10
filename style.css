@@ -175,3 +175,6 @@ p {
 #feature .fe-box:nth-child(6) h6 {
   background-color: rgb(248, 207, 177);
 }
+#product1 {
+  text-align: center;
+}
