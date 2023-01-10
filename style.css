@@ -103,7 +103,7 @@ body {
   height: 90vh;
   width: 100%;
   background-size: cover;
-  background-position: top 25% right 40%;
+  background-position: top 25% left 20%;
   padding: 0 80px;
   display: flex;
   flex-direction: column;
@@ -129,4 +129,34 @@ p {
   cursor: pointer;
   font-weight: 700;
   font-size: 16px;
+}
+#feature {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+#feature .fe-box {
+  width: 180px;
+  text-align: center;
+  padding: 25px 15px;
+  box-shadow: 20px 20px 34px rgba(11, 11, 11, 0.3);
+  border-radius: 4px;
+  border: 1px solid #839586;
+  margin: 15px 0;
+}
+#feature .fe-box:hover {
+  box-shadow: 10px 10px 54px rgba(11, 11, 11, 0.3);
+}
+#feature .fe-box img {
+  width: 100%;
+  margin-bottom: 10px;
+}
+#feature .fe-box h6 {
+  display: inline-block;
+  padding: 9px 8px 6px 8px;
+  line-height: 1;
+  border-radius: 4px;
+  color: rgb(39, 41, 41);
+  background-color: rgb(226, 245, 225);
 }
