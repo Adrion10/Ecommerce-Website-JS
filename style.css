@@ -94,3 +94,15 @@ body {
   left: 20px;
   bottom: -4px;
 }
+#hero {
+  background-image: url("img/hero4.jpg");
+  height: 90vh;
+  width: 100%;
+  background-size: cover;
+  background-position: top 25% right 40%;
+  padding: 0 80px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+}
