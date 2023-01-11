@@ -202,11 +202,22 @@ p {
   padding: 10px 0;
 }
 #product1 .pro .des span {
-  color: #248334;
+  color: #223d26;
   font-size: 12px;
 }
 #product1 .pro .des h5 {
   padding-top: 7px;
-  color: #cce7d0;
+  color: #2c2e2c;
   font-size: 14px;
 }
+#product1 .pro .des i {
+  font-size: 12px;
+  color: #fec803;
+}
+#product1 .pro .des h4 {
+  padding-top: 7px;
+  font-size: 14px;
+  font-weight: 700;
+  color: #128553;
+}
+#product1 .pro .des;
