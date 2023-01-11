@@ -220,4 +220,16 @@ p {
   font-weight: 700;
   color: #128553;
 }
-#product1 .pro .des;
+#product1 .pro .cart {
+  width: 40px;
+  height: 40px;
+  line-height: 40px;
+  border-radius: 50px;
+  background-color: hwb(102 87% 5%);
+  font-weight: 500;
+  color: #128553;
+  border: 1px solid #f1faf6;
+  position: absolute;
+  bottom: 20px;
+  right: 10px;
+}
