@@ -202,4 +202,11 @@ p {
   padding: 10px 0;
 }
 #product1 .pro .des span {
+  color: #248334;
+  font-size: 12px;
+}
+#product1 .pro .des h5 {
+  padding-top: 7px;
+  color: #cce7d0;
+  font-size: 14px;
 }
