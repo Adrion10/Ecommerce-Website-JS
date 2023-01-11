@@ -187,7 +187,7 @@ p {
   cursor: pointer;
   margin: 15px 0;
   box-shadow: 20px 20px 30px rgba(0, 0, 0, 0.2);
-  transition: 0.3s;
+  transition: 0.3s ease-in-out;
 }
 #product1 .pro:hover {
   box-shadow: 20px 20px 30px rgba(149, 138, 138, 0.7);
@@ -196,4 +196,10 @@ p {
   width: 100%;
   border-radius: 20px;
   box-shadow: 20px 20px 30px rgba(203, 200, 200, 0.6);
+}
+#product1 .pro .des {
+  text-align: start;
+  padding: 10px 0;
+}
+#product1 .pro .des span {
 }
