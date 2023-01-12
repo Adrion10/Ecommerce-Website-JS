@@ -186,7 +186,7 @@ body {
 #product1 {
   text-align: center;
 }
-.pro-contaniner {
+#product1 .pro-contaniner {
   display: flex;
   justify-content: space-between;
   padding-top: 20px;
