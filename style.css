@@ -276,3 +276,7 @@ p {
 #banner h2 span {
   color: #3f13dd;
 }
+#banner button:hover {
+  background-color: rgb(17, 68, 15);
+  color: #e3e6f3;
+}
