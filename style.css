@@ -120,9 +120,7 @@ body {
   align-items: flex-start;
   justify-content: center;
 }
-#hero h4,
-h2,
-p {
+#hero * {
   color: #e3e6f3;
   padding-bottom: 10px;
 }
