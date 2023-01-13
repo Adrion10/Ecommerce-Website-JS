@@ -52,6 +52,7 @@ button.normal {
   font-weight: 600;
   padding: 15px 30px;
   background-color: #fff;
+
   border-radius: 4px;
   cursor: pointer;
   border: none;
@@ -64,8 +65,9 @@ button.white {
   padding: 11px 18px;
   background-color: transparent;
   border-radius: 4px;
+  color: #e3e6f3;
   cursor: pointer;
-  border: 1px solid white;
+  border: 1px solid rgb(227, 197, 3);
   outline: none;
   transition: 0.2s;
 }
@@ -305,12 +307,16 @@ body {
   justify-content: center;
   align-items: start;
   background-image: url(img/banner/b5.jpg);
+
   min-width: 580px;
   height: 50vh;
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
   padding: 30px;
+}
+#sm-banner .banner-box2 {
+  background-image: url(img/banner/b6.jpg);
 }
 #sm-banner .banner-box:hover button {
   background-color: #128553;
