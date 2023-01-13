@@ -304,7 +304,6 @@ body {
   flex-direction: column;
   justify-content: center;
   align-items: start;
-
   background-image: url(img/banner/b5.jpg);
   min-width: 580px;
   height: 50vh;
@@ -312,6 +311,10 @@ body {
   background-position: center;
   background-repeat: no-repeat;
   padding: 30px;
+}
+#sm-banner .banner-box:hover button {
+  background-color: #128553;
+  color: #e3e6f3;
 }
 #sm-banner h4 {
   font-size: 20px;
