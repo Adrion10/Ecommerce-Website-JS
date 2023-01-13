@@ -315,6 +315,7 @@ body {
 #sm-banner .banner-box:hover button {
   background-color: #128553;
   color: #e3e6f3;
+  border: 2px solid rgb(223, 216, 16);
 }
 #sm-banner h4 {
   font-size: 20px;
