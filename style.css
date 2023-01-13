@@ -303,4 +303,19 @@ body {
   padding: 30px;
 }
 #sm-banner h4 {
+  font-size: 20px;
+  color: #f8a409;
+  font-weight: 400;
+}
+#sm-banner h2 {
+  font-size: 30px;
+  color: #f8a409;
+  font-weight: 800;
+}
+
+#sm-banner span {
+  font-size: 14px;
+  color: #f8a409;
+  font-weight: 500;
+  padding-bottom: 15px;
 }
