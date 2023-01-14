@@ -340,6 +340,11 @@ body {
   font-weight: 500;
   padding-bottom: 15px;
 }
+#banner3 {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
 #banner3 .banner-box {
   display: flex;
   flex-direction: column;
@@ -354,8 +359,19 @@ body {
   padding: 20px;
   margin-bottom: 20px;
 }
+#banner3 .banner-box2 {
+  background-image: url(img/banner/b5.jpg);
+}
+#banner3 .banner-box3 {
+  background-image: url(img/banner/b5.jpg);
+}
 #banner3 h2 {
   color: #f1faf6;
   font-weight: 900;
   font-size: 22px;
+}
+#banner3 h3 {
+  color: #edad0b;
+  font-weight: 800;
+  font-size: 15px;
 }
