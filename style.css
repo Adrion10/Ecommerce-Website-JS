@@ -340,3 +340,18 @@ body {
   font-weight: 500;
   padding-bottom: 15px;
 }
+#banner3 .banner-box {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: start;
+  background-image: url(img/banner/b5.jpg);
+
+  min-width: 30%;
+  height: 30vh;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  padding: 20px;
+  margin-bottom: 20px;
+}
