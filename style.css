@@ -346,7 +346,6 @@ body {
   justify-content: center;
   align-items: start;
   background-image: url(img/banner/b5.jpg);
-
   min-width: 30%;
   height: 30vh;
   background-size: cover;
@@ -354,4 +353,9 @@ body {
   background-repeat: no-repeat;
   padding: 20px;
   margin-bottom: 20px;
+}
+#banner3 h2 {
+  color: #f1faf6;
+  font-weight: 900;
+  font-size: 22px;
 }
