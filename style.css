@@ -375,3 +375,11 @@ body {
   font-weight: 800;
   font-size: 15px;
 }
+#newsletter {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+  background-image: url(img/banner/b14.png);
+  background-repeat: no-repeat;
+}
