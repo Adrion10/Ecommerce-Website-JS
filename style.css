@@ -382,4 +382,6 @@ body {
   flex-wrap: wrap;
   background-image: url(img/banner/b14.png);
   background-repeat: no-repeat;
+  background-position: 20% 30%;
+  background-color: rgb(26, 26, 39);
 }
