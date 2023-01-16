@@ -466,4 +466,7 @@ footer .follow i:hover,
 footer a:hover {
   color: #3f13dd;
 }
-footer .copy
+footer .copyright {
+  width: 100%;
+  text-align: center;
+}
