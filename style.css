@@ -418,3 +418,8 @@ body {
   color: #b6b8c1;
   white-space: nowrap;
 }
+footer {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
