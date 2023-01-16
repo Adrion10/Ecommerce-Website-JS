@@ -462,3 +462,8 @@ footer .install .row img {
 footer .install {
   margin: 10px 0 15px 0;
 }
+footer .follow i:hover,
+footer a:hover {
+  color: #3f13dd;
+}
+footer .copy
