@@ -493,4 +493,13 @@ footer .copyright {
   #navbar li {
     margin-bottom: 25px;
   }
+  #mobile {
+    display: flex;
+    align-items: center;
+  }
+  #mobile i {
+    color: #222;
+    font-size: 24px;
+    padding-left: 20px;
+  }
 }
