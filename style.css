@@ -91,6 +91,7 @@ body {
   justify-content: center;
   align-items: center;
 }
+
 .logo {
   height: 50px;
   margin-right: 20px;
@@ -120,6 +121,10 @@ body {
   position: absolute;
   left: 20px;
   bottom: -4px;
+}
+#mobile {
+  display: none;
+  align-items: center;
 }
 #hero {
   background-image: url("img/hero4.jpg");
