@@ -575,4 +575,7 @@ footer .copyright {
   #feature {
     justify-content: space-between;
   }
+  #product1 .pro {
+    width: 100%;
+  }
 }
