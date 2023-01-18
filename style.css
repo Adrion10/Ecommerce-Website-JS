@@ -578,4 +578,10 @@ footer .copyright {
   #product1 .pro {
     width: 100%;
   }
+  #banner {
+    height: 40vh;
+  }
+  #sm-banner .banner-box {
+    height: 40vh;
+  }
 }
