@@ -552,11 +552,14 @@ footer .copyright {
   }
 }
 @media (max-width: 477px) {
+  .section-p1 {
+    padding: 20px;
+  }
   #header {
     padding: 10px 30px;
   }
   h1 {
-    font-size: 34px;
+    font-size: 38px;
   }
   h2 {
     font-size: 30px;
