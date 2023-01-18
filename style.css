@@ -551,3 +551,18 @@ footer .copyright {
     width: 70%;
   }
 }
+@media (max-width: 477px) {
+  #header {
+    padding: 10px 30px;
+  }
+  h1 {
+    font-size: 34px;
+  }
+  h2 {
+    font-size: 30px;
+  }
+  #hero {
+    padding: 0 20px;
+    background-position: 55%;
+  }
+} ;
