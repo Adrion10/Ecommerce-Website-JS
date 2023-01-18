@@ -584,4 +584,10 @@ footer .copyright {
   #sm-banner .banner-box {
     height: 40vh;
   }
+  #sm-banner .banner-box2 {
+    margin-top: 20px;
+  }
+  #banner3 {
+    padding: 0 20px;
+  }
 }
