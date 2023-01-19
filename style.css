@@ -506,6 +506,20 @@ footer .copyright {
   font-weight: 600;
 }
 
+/* singleProduct */
+#productDetails .single-pro-img {
+  width: 40%;
+  margin-right: 50px;
+}
+.small-img-group {
+  display: flex;
+  justify-content: space-between;
+}
+.small-img-col {
+  flex-basis: 24%;
+  cursor: pointer;
+}
+
 @media (max-width: 799px) {
   .section-p1 {
     padding: 40px 40px;
