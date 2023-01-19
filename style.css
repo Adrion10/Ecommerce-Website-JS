@@ -490,6 +490,17 @@ footer .copyright {
 #page-header p {
   color: #e4e6f1;
 }
+#pagination {
+  text-align: center;
+}
+#pagination a {
+  text-decoration: none;
+  background-color: rgb(20, 67, 10);
+  padding: 15px 20px;
+  border-radius: 4px;
+  color: #b6b8c1;
+  font-weight: 600;
+}
 
 @media (max-width: 799px) {
   .section-p1 {
