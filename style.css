@@ -501,6 +501,10 @@ footer .copyright {
   color: #b6b8c1;
   font-weight: 600;
 }
+#pagination a i {
+  font-size: 16px;
+  font-weight: 600;
+}
 
 @media (max-width: 799px) {
   .section-p1 {
