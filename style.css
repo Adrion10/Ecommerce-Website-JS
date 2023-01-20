@@ -507,6 +507,11 @@ footer .copyright {
 }
 
 /* singleProduct */
+
+#productDetails {
+  display: flex;
+  margin-top: 20px;
+}
 #productDetails .single-pro-img {
   width: 40%;
   margin-right: 50px;
@@ -518,6 +523,10 @@ footer .copyright {
 .small-img-col {
   flex-basis: 24%;
   cursor: pointer;
+}
+#productDetails .singel-pro-details {
+  width: 50%;
+  padding-top: 30px;
 }
 
 @media (max-width: 799px) {
