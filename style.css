@@ -528,6 +528,12 @@ footer .copyright {
   width: 50%;
   padding-top: 30px;
 }
+#productDetails .singel-pro-details h4 {
+  padding: 40px 0 20px 0;
+}
+#productDetails .singel-pro-details h2 {
+  font-size: 26px;
+}
 
 @media (max-width: 799px) {
   .section-p1 {
