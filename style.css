@@ -539,6 +539,17 @@ footer .copyright {
   padding: 5px 10px;
   margin-bottom: 10px;
 }
+#productDetails .singel-pro-details input {
+  width: 50px;
+  height: 47px;
+  padding-left: 10px;
+  font-size: 16px;
+  margin-right: 10px;
+}
+#productDetails .singel-pro-details button {
+  background-color: rgb(12, 110, 14);
+  color: #fff;
+}
 
 @media (max-width: 799px) {
   .section-p1 {
