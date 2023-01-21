@@ -524,6 +524,13 @@ footer .copyright {
   flex-basis: 24%;
   cursor: pointer;
 }
+
+.single-pro-img img {
+  height: 400px;
+}
+.small-img-col img {
+  height: 200px;
+}
 #productDetails .singel-pro-details {
   width: 50%;
   padding-top: 30px;
@@ -683,5 +690,21 @@ footer .copyright {
 
   footer .copyright {
     text-align: start;
+  }
+  /* Single product */
+  #productDetails {
+    display: flex;
+    flex-direction: column;
+  }
+  .single-pro-img img {
+    height: 400px;
+  }
+  .small-img-col img {
+    height: 200px;
+  }
+  #productDetails .single-pro-img {
+    width: 100%;
+
+    margin-right: 0px;
   }
 }
