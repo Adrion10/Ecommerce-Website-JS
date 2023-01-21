@@ -560,6 +560,10 @@ footer .copyright {
 #productDetails .singel-pro-details span {
   font-size: 20px;
 }
+/* Blog Page */
+#page-header.blog-header {
+  background-image: url(img/);
+}
 
 @media (max-width: 799px) {
   .section-p1 {
