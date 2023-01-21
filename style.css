@@ -704,7 +704,9 @@ footer .copyright {
   }
   #productDetails .single-pro-img {
     width: 100%;
-
     margin-right: 0px;
+  }
+  #productDetails .singel-pro-details {
+    width: 100%;
   }
 }
