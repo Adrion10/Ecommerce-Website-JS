@@ -571,6 +571,8 @@ footer .copyright {
   display: flex;
   align-items: center;
   width: 100%;
+  position: relative;
+  padding-bottom: 90px;
 }
 #blog .blog-img {
   width: 50%;
@@ -589,6 +591,31 @@ footer .copyright {
   font-size: 11px;
   color: #222;
   font-weight: 700;
+  position: relative;
+  transition: 0.3s;
+}
+#blog .blog-details a::after {
+  content: "";
+  width: 50px;
+  height: 1px;
+  background-color: #222;
+  position: absolute;
+  top: 4px;
+  right: -60px;
+}
+#blog .blog-details a:hover {
+  color: #128553;
+}
+#blog .blog-details a:hover::after {
+  background-color: #128553;
+}
+#blog .blog-box h1 {
+  position: absolute;
+  top: -40px;
+  font-size: 70px;
+  font-weight: 700;
+  color: #c9cbce;
+  z-index: -7;
 }
 
 @media (max-width: 799px) {
