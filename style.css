@@ -581,6 +581,15 @@ footer .copyright {
   height: 300px;
   object-fit: cover;
 }
+#blog .blog-details {
+  width: 50%;
+}
+#blog .blog-details a {
+  text-decoration: none;
+  font-size: 11px;
+  color: #222;
+  font-weight: 700;
+}
 
 @media (max-width: 799px) {
   .section-p1 {
