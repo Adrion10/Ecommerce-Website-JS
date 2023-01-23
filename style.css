@@ -622,7 +622,17 @@ footer .copyright {
 #page-header.about-header {
   background-image: url(img/about/banner.jpg);
 }
-
+#about-header {
+  display: flex;
+  align-items: center;
+}
+#about-header img {
+  /* width: 50%;  */
+  height: auto;
+}
+#about-header div {
+  margin-left: 40px;
+}
 @media (max-width: 821px) {
   .section-p1 {
     padding: 40px 40px;
