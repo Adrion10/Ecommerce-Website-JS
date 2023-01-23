@@ -618,6 +618,11 @@ footer .copyright {
   z-index: -7;
 }
 
+/* About Page */
+#page-header.about-header {
+  background-image: url(img/about/banner.jpg);
+}
+
 @media (max-width: 821px) {
   .section-p1 {
     padding: 40px 40px;
