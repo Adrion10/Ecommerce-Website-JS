@@ -766,4 +766,10 @@ footer .copyright {
   #productDetails .singel-pro-details {
     width: 100%;
   }
+  /* Blog Page */
+  #blog .blog-box {
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+  }
 }
