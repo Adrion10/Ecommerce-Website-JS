@@ -820,4 +820,7 @@ footer .copyright {
     width: 100%;
     margin-bottom: 20px;
   }
+  #about-header div {
+    padding-left: 0px;
+  }
 }
