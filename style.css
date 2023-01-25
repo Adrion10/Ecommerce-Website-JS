@@ -647,6 +647,16 @@ footer .copyright {
   border-radius: 20px;
 }
 
+/* Contacat <Page */
+
+#contact-details {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+#contact-details .details {
+  width: 40%;
+}
 @media (max-width: 821px) {
   .section-p1 {
     padding: 40px 40px;
