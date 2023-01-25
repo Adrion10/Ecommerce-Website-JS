@@ -682,6 +682,11 @@ footer .copyright {
   margin: 0;
   font-size: 14px;
 }
+#contact-details .map {
+  width: 55%;
+  height: 400px;
+}
+
 /*media query*/
 @media (max-width: 821px) {
   .section-p1 {
