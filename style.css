@@ -657,6 +657,16 @@ footer .copyright {
 #contact-details .details {
   width: 40%;
 }
+#contact-details .details span {
+  font-size: 12px;
+}
+#contact-details .details h2 {
+  font-size: 26px;
+  line-height: 35px;
+  padding: 20px;
+}
+
+/*media query*/
 @media (max-width: 821px) {
   .section-p1 {
     padding: 40px 40px;
