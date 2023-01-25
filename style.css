@@ -663,9 +663,17 @@ footer .copyright {
 #contact-details .details h2 {
   font-size: 26px;
   line-height: 35px;
-  padding: 20px;
+  padding: 20px 0;
 }
-
+#contact-details .details h3 {
+  font-size: 16px;
+  padding-bottom: 15px;
+}
+#contact-details .details li {
+  list-style: none;
+  display: flex;
+  padding: 10px 0;
+}
 /*media query*/
 @media (max-width: 821px) {
   .section-p1 {
