@@ -943,4 +943,8 @@ footer .copyright {
     border: 1px solid #e1e1e1;
     flex-wrap: wrap;
   }
+  #form-details form {
+    width: 100%;
+    margin-bottom: 30px;
+  }
 }
