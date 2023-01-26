@@ -710,6 +710,15 @@ footer .copyright {
   background-color: #088178;
   color: #fff;
 }
+#from-details .people div {
+  padding-bottom: 20px;
+}
+#from-details .people div img {
+  width: 65%;
+  height: 65%;
+  object-fit: cover;
+  margin-right: 15px;
+}
 
 /*media query*/
 @media (max-width: 821px) {
