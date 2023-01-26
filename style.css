@@ -937,4 +937,10 @@ footer .copyright {
   #contact-details .map {
     width: 100%;
   }
+  #form-details {
+    margin: 10px;
+    padding: 30px 10px;
+    border: 1px solid #e1e1e1;
+    flex-wrap: wrap;
+  }
 }
