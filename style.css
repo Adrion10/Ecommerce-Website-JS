@@ -710,21 +710,23 @@ footer .copyright {
   background-color: #088178;
   color: #fff;
 }
-#from-details .people div {
+#form-details .people div {
   padding-bottom: 20px;
+  display: flex;
+  align-items: flex-start;
 }
-#from-details .people div img {
-  width: 65%;
-  height: 65%;
+#form-details .people img {
+  width: 25%;
+  height: 25%;
   object-fit: cover;
   margin-right: 15px;
 }
-#from-details .people div p {
+#form-details .people div p {
   margin: 0;
   font-size: 13px;
   line-height: 25px;
 }
-#from-details .people div p span {
+#form-details .people div p span {
   display: block;
   font-size: 16px;
   font-weight: 600;
