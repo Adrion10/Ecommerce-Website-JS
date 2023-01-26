@@ -820,6 +820,13 @@ footer .copyright {
   #newsletter .from {
     width: 70%;
   }
+  /* contact Page  */
+  #form-details {
+    padding: 30px;
+  }
+  #form-details form {
+    width: 50%;
+  }
 }
 @media (max-width: 477px) {
   .section-p1 {
