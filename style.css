@@ -775,6 +775,17 @@ footer .copyright {
   width: 70px;
   padding: 10px 5px 10px 15px;
 }
+#cart table thead {
+  border: 1px solid #ccc;
+  border-left: none;
+  border-right: none;
+}
+#cart table thead td {
+  font-weight: 700;
+  text-transform: uppercase;
+  font-size: 13px;
+  padding: 18px 0;
+}
 
 /*media query*/
 @media (max-width: 821px) {
