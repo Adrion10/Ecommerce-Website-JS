@@ -786,6 +786,12 @@ footer .copyright {
   font-size: 13px;
   padding: 18px 0;
 }
+#cart table tbody tr td {
+  padding-top: 15px;
+}
+#cart table thead td {
+  font-size: 13px;
+}
 
 /*media query*/
 @media (max-width: 821px) {
