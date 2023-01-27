@@ -742,6 +742,17 @@ footer .copyright {
   color: #000;
 }
 
+/* Cart Page */
+
+#cart table {
+  width: 100%;
+  border-collapse: collapse;
+  table-layout: fixed;
+  white-space: nowrap;
+}
+#cart table img {
+}
+
 /*media query*/
 @media (max-width: 821px) {
   .section-p1 {
