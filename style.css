@@ -797,6 +797,10 @@ footer .copyright {
   flex-wrap: wrap;
   justify-content: space-between;
 }
+#coupon {
+  width: 50%;
+  margin-bottom: 30px;
+}
 
 /*media query*/
 @media (max-width: 821px) {
