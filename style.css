@@ -801,6 +801,9 @@ footer .copyright {
   width: 50%;
   margin-bottom: 30px;
 }
+#coupon h3 {
+  padding-bottom: 15px;
+}
 
 /*media query*/
 @media (max-width: 821px) {
