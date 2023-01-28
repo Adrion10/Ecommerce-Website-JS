@@ -792,6 +792,11 @@ footer .copyright {
 #cart table thead td {
   font-size: 13px;
 }
+#cart-add {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
 
 /*media query*/
 @media (max-width: 821px) {
