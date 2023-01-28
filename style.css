@@ -811,6 +811,9 @@ footer .copyright {
   margin-right: 10px;
   border: 1px solid #e2e9e1;
 }
+#coupon button {
+  background-color: #088178;
+}
 
 /*media query*/
 @media (max-width: 821px) {
