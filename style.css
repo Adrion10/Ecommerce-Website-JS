@@ -812,9 +812,11 @@ footer .copyright {
   margin-right: 10px;
   border: 1px solid #e2e9e1;
 }
-#coupon button {
+#coupon button,
+#subtotal button {
   background-color: #088178;
   padding: 10px 20px;
+  color: #ebedf4;
 }
 #subtotal {
   width: 50%;
