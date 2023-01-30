@@ -815,7 +815,13 @@ footer .copyright {
   background-color: #088178;
   padding: 10px 20px;
 }
-
+#subtotal {
+  width: 50%;
+  margin-bottom: 30px;
+  border: 1px solid #e2e9e1;
+  padding: 30px;
+}
+#subtotal
 /*media query*/
 @media (max-width: 821px) {
   .section-p1 {
