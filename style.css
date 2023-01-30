@@ -1043,4 +1043,8 @@ footer .copyright {
     width: 100%;
     margin-bottom: 30px;
   }
+  /* CArt Page */
+  #cart-add {
+    flex-direction: column;
+  }
 }
