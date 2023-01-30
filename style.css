@@ -1050,4 +1050,8 @@ footer .copyright {
   #coupon {
     width: 100%;
   }
+  #subtotal {
+    width: 100%;
+    padding: 20px;
+  }
 }
