@@ -801,7 +801,8 @@ footer .copyright {
   width: 50%;
   margin-bottom: 30px;
 }
-#coupon h3 {
+#coupon h3,
+#subtotal h3 {
   padding-bottom: 15px;
 }
 #coupon input {
@@ -825,6 +826,12 @@ footer .copyright {
   border-collapse: collapse;
   width: 100%;
   margin-bottom: 20px;
+}
+#subtotal table td {
+  width: 50%;
+  border: 1px solid #e2e9e1;
+  padding: 10px;
+  font-size: 13px;
 }
 /*media query*/
 @media (max-width: 821px) {
