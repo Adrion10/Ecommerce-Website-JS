@@ -743,6 +743,9 @@ footer .copyright {
 }
 
 /* Cart Page */
+#cart {
+  overflow-x: auto;
+}
 
 #cart table {
   width: 100%;
