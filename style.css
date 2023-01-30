@@ -821,7 +821,11 @@ footer .copyright {
   border: 1px solid #e2e9e1;
   padding: 30px;
 }
-#subtotal
+#subtotal table {
+  border-collapse: collapse;
+  width: 100%;
+  margin-bottom: 20px;
+}
 /*media query*/
 @media (max-width: 821px) {
   .section-p1 {
